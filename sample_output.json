@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://www.zeptonow.com/products/sample-product",
+    "title": "Sample Product from Zepto",
+    "brand": "Sample Brand",
+    "initial_price": 59.99,
+    "final_price": 44.99,
+    "currency": "USD",
+    "discount": "25%",
+    "in_stock": true,
+    "rating": 4.5,
+    "reviews_count": 1234,
+    "seller_name": "Zepto Official Store",
+    "images": [
+      "https://zeptonow.com/images/product1.jpg",
+      "https://zeptonow.com/images/product2.jpg"
+    ],
+    "description": "This is a sample product listing collected from Zepto using Bright Data's Web Scraper API.",
+    "timestamp": "2025-01-15T10:30:00Z"
+  }
+]
